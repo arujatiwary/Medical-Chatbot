@@ -1,1 +1,1 @@
-Medical Chatbot using Python. Team Number 249
+Medical Chatbot using Python for IBM Datathon 2024. Team Number 249
