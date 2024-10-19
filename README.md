@@ -1,3 +1,1 @@
-Team Name - Vadapav
-Team Number - 249
-IBM Datathon 2024
+Medical Chatbot using Python. Team Number 249
